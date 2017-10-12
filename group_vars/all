@@ -1,6 +1,6 @@
 ---
 # vi:syntax=yaml
-remote_user: "heat-admin"
+remote_user: "root"
 become: "True"
 result_dir: "{{inventory_dir}}/results"
 #result_dir: "/home/stack/"
